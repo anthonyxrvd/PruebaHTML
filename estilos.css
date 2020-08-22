@@ -33,8 +33,10 @@ ul{
     padding: 20px;
 }
 .nav-brand{
- width: 300px;   
+ width: 50px;   
 }
+
+/*nav left*/
 .nav-main ul{
 display: flex;
 }
